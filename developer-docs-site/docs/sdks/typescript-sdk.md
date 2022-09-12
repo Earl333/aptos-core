@@ -1,8 +1,8 @@
 ---
-title: "Typescript SDK"
-slug: "typescript-sdk"
----
-
+git clone https://github.com/aptos-labs/aptos-core.git
+cd ~/aptos-core/ecosystem/typescript/sdk/examples/typescript
+yarn install
+yarn run transfer_coin
 # Aptos Typescript SDK
 
 Aptos provides an official Typescript SDK. The Typescript SDK receives the most attention from the Aptos Labs team and community, meaning thorough testing and active updates. It is available on [npmjs](https://www.npmjs.com/package/aptos) with the source code in the [aptos-core GitHub repository](https://github.com/aptos-labs/aptos-core/tree/main/ecosystem/typescript/sdk).
